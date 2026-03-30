@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Edward.Newgate",
+        "code": "OP02-001",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://imgur.com/placeholder.png"
+    },
+    {
+        "name": "Edward.Newgate (Alternate Art)",
+        "code": "OP02-001",
+        "rarity": "SR",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://imgur.com/placeholder.png"
+    },
+    {
+        "name": "Monkey.D.Garp",
+        "code": "OP02-002",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://imgur.com/placeholder.png"
+    },
+    {
+        "name": "Monkey.D.Garp (Alternate Art)",
+        "code": "OP02-002",
+        "rarity": "SR",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://imgur.com/placeholder.png"
+    },
+    {
+        "name": "Atmos",
+        "code": "OP02-003",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://imgur.com/placeholder.png"
+    },
+    {
+        "name": "Edward.Newgate",
+        "code": "OP02-004",
+        "rarity": "SR",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://imgur.com/placeholder.png"
+    },
+    {
+        "name": "Edward.Newgate (Alternate Art)",
+        "code": "OP02-004",
+        "rarity": "SR",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://imgur.com/placeholder.png"
+    },
+    {
+        "name": "Curly.Dadan",
+        "code": "OP02-005",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://imgur.com/placeholder.png"
+    }
+]

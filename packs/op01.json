@@ -1,0 +1,1234 @@
+[
+    {
+        "name": "Roronoa Zoro",
+        "code": "OP01-001",
+        "rarity": "L",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/jrnxUAj.png"
+    },
+    {
+        "name": "Roronoa Zoro",
+        "code": "OP01-001",
+        "rarity": "L",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/ZVBa7L9.png"
+    },
+    {
+        "name": "Trafalgar Law",
+        "code": "OP01-002",
+        "rarity": "L",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/D4iQamB.png"
+    },
+    {
+        "name": "Trafalgar Law",
+        "code": "OP01-002",
+        "rarity": "L",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/8CYj0iR.png"
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "code": "OP01-003",
+        "rarity": "L",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/P01fc37.png"
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "code": "OP01-003",
+        "rarity": "L",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/8Egg2Ak.png"
+    },
+    {
+        "name": "Usopp",
+        "code": "OP01-004",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/YkXgGLd.png"
+    },
+    {
+        "name": "Uta",
+        "code": "OP01-005",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/ltcKlbg.png"
+    },
+    {
+        "name": "Otama",
+        "code": "OP01-006",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/sTTA7Zh.png"
+    },
+    {
+        "name": "Caribou",
+        "code": "OP01-007",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/ZA0T1IE.png"
+    },
+    {
+        "name": "Cavendish",
+        "code": "OP01-008",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/O1jWZqj.png"
+    },
+    {
+        "name": "Cavendish",
+        "code": "OP01-008",
+        "rarity": "C",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/hgeX3Bb.png"
+    },
+    {
+        "name": "Carrot",
+        "code": "OP01-009",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/mC2mb4V.png"
+    },
+    {
+        "name": "Komachiyo",
+        "code": "OP01-010",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/2M7evG1.png"
+    },
+    {
+        "name": "Gordon",
+        "code": "OP01-011",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/3ONIv1A.png"
+    },
+    {
+        "name": "Sai",
+        "code": "OP01-012",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/mQMMCkz.png"
+    },
+    {
+        "name": "Sanji",
+        "code": "OP01-013",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/Din7nUh.png"
+    },
+    {
+        "name": "Sanji",
+        "code": "OP01-013",
+        "rarity": "R",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/eJbtUBy.png"
+    },
+    {
+        "name": "Jinbe",
+        "code": "OP01-014",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/UbV2e3b.png"
+    },
+    {
+        "name": "Tony Tony.Chopper",
+        "code": "OP01-015",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/84zeKTr.png"
+    },
+    {
+        "name": "Nami",
+        "code": "OP01-016",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/Ei9LMAQ.png"
+    },
+    {
+        "name": "Nami",
+        "code": "OP01-016",
+        "rarity": "R",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/ht8WdaP.png"
+    },
+    {
+        "name": "Nico Robin",
+        "code": "OP01-017",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/Bsmjnv5.png"
+    },
+    {
+        "name": "Hajrudin",
+        "code": "OP01-018",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/wkUcvIb.png"
+    },
+    {
+        "name": "Bartolomeo",
+        "code": "OP01-019",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/qffhaX6.png"
+    },
+    {
+        "name": "Hyogoro",
+        "code": "OP01-020",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/2bkuGX3.png"
+    },
+    {
+        "name": "Franky",
+        "code": "OP01-021",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/N5McBj3.png"
+    },
+    {
+        "name": "Brook",
+        "code": "OP01-022",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/uWdCpK7.png"
+    },
+    {
+        "name": "Marco",
+        "code": "OP01-023",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/uKNM1Ol.png"
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "code": "OP01-024",
+        "rarity": "SR",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/3c3tUFc.png"
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "code": "OP01-024",
+        "rarity": "SR",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/udJ3kMQ.png"
+    },
+    {
+        "name": "Roronoa Zoro",
+        "code": "OP01-025",
+        "rarity": "SR",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/apnXdf3.png"
+    },
+    {
+        "name": "Roronoa Zoro",
+        "code": "OP01-025",
+        "rarity": "SR",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/UUdDQlY.png"
+    },
+    {
+        "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+        "code": "OP01-026",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/egwWVAh.png"
+    },
+    {
+        "name": "Round Table",
+        "code": "OP01-027",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/FR5EDQV.png"
+    },
+    {
+        "name": "Green Star Rafflesia",
+        "code": "OP01-028",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/6wR2wlR.png"
+    },
+    {
+        "name": "Radical Beam!!",
+        "code": "OP01-029",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/XoyGb1L.png"
+    },
+    {
+        "name": "In Two Years!! At the Sabaody Archipelago!!",
+        "code": "OP01-030",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/fBZZU4y.png"
+    },
+    {
+        "name": "Kouzuki Oden",
+        "code": "OP01-031",
+        "rarity": "L",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/1tBtyif.png"
+    },
+    {
+        "name": "Kouzuki Oden",
+        "code": "OP01-031",
+        "rarity": "L",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/84zuNA3.png"
+    },
+    {
+        "name": "Ashura Doji",
+        "code": "OP01-032",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/dZzUhcL.png"
+    },
+    {
+        "name": "Izo",
+        "code": "OP01-033",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/6cjDm6T.png"
+    },
+    {
+        "name": "Inuarashi",
+        "code": "OP01-034",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/nhzdF2w.png"
+    },
+    {
+        "name": "Inuarashi",
+        "code": "OP01-034",
+        "rarity": "C",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/O8cst01.png"
+    },
+    {
+        "name": "Okiku",
+        "code": "OP01-035",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/zNqXXa1.png"
+    },
+    {
+        "name": "Otsuru",
+        "code": "OP01-036",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/FqEHL34.png"
+    },
+    {
+        "name": "Kawamatsu",
+        "code": "OP01-037",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/Qh7sLmG.png"
+    },
+    {
+        "name": "Kanjuro",
+        "code": "OP01-038",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/djawmY4.png"
+    },
+    {
+        "name": "Killer",
+        "code": "OP01-039",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/KJQe1Fk.png"
+    },
+    {
+        "name": "Kin'emon",
+        "code": "OP01-040",
+        "rarity": "SR",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/LoZ73BG.png"
+    },
+    {
+        "name": "Kin'emon",
+        "code": "OP01-040",
+        "rarity": "SR",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/tvffCt6.png"
+    },
+    {
+        "name": "Kouzuki Momonosuke",
+        "code": "OP01-041",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/8na1ncT.png"
+    },
+    {
+        "name": "Komurasaki",
+        "code": "OP01-042",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/jdIouzG.png"
+    },
+    {
+        "name": "Shinobu",
+        "code": "OP01-043",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/DUnnRPl.png"
+    },
+    {
+        "name": "Shachi",
+        "code": "OP01-044",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/8bsh0OT.png"
+    },
+    {
+        "name": "Jean Bart",
+        "code": "OP01-045",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/7hW6u7E.png"
+    },
+    {
+        "name": "Denjiro",
+        "code": "OP01-046",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/HaVwgdj.png"
+    },
+    {
+        "name": "Trafalgar Law",
+        "code": "OP01-047",
+        "rarity": "SR",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/4zA9B3x.png"
+    },
+    {
+        "name": "Trafalgar Law",
+        "code": "OP01-047",
+        "rarity": "SR",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/49QjldO.png"
+    },
+    {
+        "name": "Nekomamushi",
+        "code": "OP01-048",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/cfjXOKh.png"
+    },
+    {
+        "name": "Nekomamushi",
+        "code": "OP01-048",
+        "rarity": "C",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/6Bf6791.png"
+    },
+    {
+        "name": "Bepo",
+        "code": "OP01-049",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/HV7bLYi.png"
+    },
+    {
+        "name": "Penguin",
+        "code": "OP01-050",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/h4uNlu9.png"
+    },
+    {
+        "name": "Eustass 'Captain' Kid",
+        "code": "OP01-051",
+        "rarity": "SR",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/aOBZMMs.png"
+    },
+    {
+        "name": "Eustass 'Captain' Kid",
+        "code": "OP01-051",
+        "rarity": "SR",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/fOBzxr9.png"
+    },
+    {
+        "name": "Raizo",
+        "code": "OP01-052",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/ysd7Ynj.png"
+    },
+    {
+        "name": "Wire",
+        "code": "OP01-053",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/Svs5ePr.png"
+    },
+    {
+        "name": "X.Drake",
+        "code": "OP01-054",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/CFoexqb.png"
+    },
+    {
+        "name": "You Can Be My Samurai!!",
+        "code": "OP01-055",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/2d2PAdO.png"
+    },
+    {
+        "name": "Demon Face",
+        "code": "OP01-056",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/4DmKYfG.png"
+    },
+    {
+        "name": "Paradise Waterfall",
+        "code": "OP01-057",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/9e1KEVb.png"
+    },
+    {
+        "name": "Punk Gibson",
+        "code": "OP01-058",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/sAzJdcv.png"
+    },
+    {
+        "name": "BE-BENG!!",
+        "code": "OP01-059",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/VVzibIP.png"
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "code": "OP01-060",
+        "rarity": "L",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/c2lahEw.png"
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "code": "OP01-060",
+        "rarity": "L",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/mZ1XOEx.png"
+    },
+    {
+        "name": "Kaido",
+        "code": "OP01-061",
+        "rarity": "L",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/1bRAmUj.png"
+    },
+    {
+        "name": "Kaido",
+        "code": "OP01-061",
+        "rarity": "L",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/VN4rP3t.png"
+    },
+    {
+        "name": "Crocodile",
+        "code": "OP01-062",
+        "rarity": "L",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/fBMIZwP.png"
+    },
+    {
+        "name": "Crocodile",
+        "code": "OP01-062",
+        "rarity": "L",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/UsmF91R.png"
+    },
+    {
+        "name": "Arlong",
+        "code": "OP01-063",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/TAjmaBS.png"
+    },
+    {
+        "name": "Alvida",
+        "code": "OP01-064",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/ZHB5sUD.png"
+    },
+    {
+        "name": "Alvida",
+        "code": "OP01-064",
+        "rarity": "C",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/zstxksq.png"
+    },
+    {
+        "name": "Vergo",
+        "code": "OP01-065",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/STKr44H.png"
+    },
+    {
+        "name": "Krieg",
+        "code": "OP01-066",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/xPzoQ8O.png"
+    },
+    {
+        "name": "Crocodile",
+        "code": "OP01-067",
+        "rarity": "SR",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/XWyIakB.png"
+    },
+    {
+        "name": "Crocodile",
+        "code": "OP01-067",
+        "rarity": "SR",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/zhAtDQQ.png"
+    },
+    {
+        "name": "Gecko Moria",
+        "code": "OP01-068",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/ceBnJE4.png"
+    },
+    {
+        "name": "Caesar Clown",
+        "code": "OP01-069",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/KXE69bo.png"
+    },
+    {
+        "name": "Dracule Mihawk",
+        "code": "OP01-070",
+        "rarity": "SR",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/4Iqt06s.png"
+    },
+    {
+        "name": "Dracule Mihawk",
+        "code": "OP01-070",
+        "rarity": "SR",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/kZ1BQ6a.png"
+    },
+    {
+        "name": "Jinbe",
+        "code": "OP01-071",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/34shCUJ.png"
+    },
+    {
+        "name": "Smiley",
+        "code": "OP01-072",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/Vw2QAlE.png"
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "code": "OP01-073",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/vYSOnP8.png"
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "code": "OP01-073",
+        "rarity": "R",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/NrZoDC7.png"
+    },
+    {
+        "name": "Bartholomew Kuma",
+        "code": "OP01-074",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/DxunCtM.png"
+    },
+    {
+        "name": "Pacifista",
+        "code": "OP01-075",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/aG8JmXy.png"
+    },
+    {
+        "name": "Bellamy",
+        "code": "OP01-076",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/YfYJg1o.png"
+    },
+    {
+        "name": "Perona",
+        "code": "OP01-077",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/aehMVzO.png"
+    },
+    {
+        "name": "Perona",
+        "code": "OP01-077",
+        "rarity": "UC",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/XH4NdX8.png"
+    },
+    {
+        "name": "Boa Hancock",
+        "code": "OP01-078",
+        "rarity": "SR",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/j4h6wtn.png"
+    },
+    {
+        "name": "Boa Hancock",
+        "code": "OP01-078",
+        "rarity": "SR",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/OUVgOVm.png"
+    },
+    {
+        "name": "Ms. All Sunday",
+        "code": "OP01-079",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/2t5zKeW.png"
+    },
+    {
+        "name": "Miss Doublefinger (Zala)",
+        "code": "OP01-080",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/qBlqroS.png"
+    },
+    {
+        "name": "Mocha",
+        "code": "OP01-081",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/6mR4brB.png"
+    },
+    {
+        "name": "Monet",
+        "code": "OP01-082",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/VuFdexB.png"
+    },
+    {
+        "name": "Mr. 1 (Daz.Bonez)",
+        "code": "OP01-083",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/DdS1WPD.png"
+    },
+    {
+        "name": "Mr. 2 Bon Kurei (Bentham)",
+        "code": "OP01-084",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/FNoi6hF.png"
+    },
+    {
+        "name": "Mr. 3 (Galdino)",
+        "code": "OP01-085",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/FP5wrLq.png"
+    },
+    {
+        "name": "Overheat",
+        "code": "OP01-086",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/nFqg6k0.png"
+    },
+    {
+        "name": "Officer Agents",
+        "code": "OP01-087",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/rV95tRG.png"
+    },
+    {
+        "name": "Desert Spada",
+        "code": "OP01-088",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/74ZquDb.png"
+    },
+    {
+        "name": "Crescent Cutlass",
+        "code": "OP01-089",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/inW7b2c.png"
+    },
+    {
+        "name": "Baroque Works",
+        "code": "OP01-090",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/d0GG1hf.png"
+    },
+    {
+        "name": "King",
+        "code": "OP01-091",
+        "rarity": "L",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/tS0VTar.png"
+    },
+    {
+        "name": "King",
+        "code": "OP01-091",
+        "rarity": "L",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/jrpfe2k.png"
+    },
+    {
+        "name": "Urashima",
+        "code": "OP01-092",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/ZEoO5oS.png"
+    },
+    {
+        "name": "Ulti",
+        "code": "OP01-093",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/cvEEDBY.png"
+    },
+    {
+        "name": "Ulti",
+        "code": "OP01-093",
+        "rarity": "R",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/GQx4gC6.png"
+    },
+    {
+        "name": "Kaido",
+        "code": "OP01-094",
+        "rarity": "SR",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/Tycc6WZ.png"
+    },
+    {
+        "name": "Kaido",
+        "code": "OP01-094",
+        "rarity": "SR",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/jmyYvg0.png"
+    },
+    {
+        "name": "Kyoshirou",
+        "code": "OP01-095",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/oKIGMN1.png"
+    },
+    {
+        "name": "King",
+        "code": "OP01-096",
+        "rarity": "SR",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/uyuaMJi.png"
+    },
+    {
+        "name": "King",
+        "code": "OP01-096",
+        "rarity": "SR",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/avz80oZ.png"
+    },
+    {
+        "name": "Queen",
+        "code": "OP01-097",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/Zc5600a.png"
+    },
+    {
+        "name": "Queen",
+        "code": "OP01-097",
+        "rarity": "R",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/Np0leI7.png"
+    },
+    {
+        "name": "Kurozumi Orochi",
+        "code": "OP01-098",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/tbbLzeL.png"
+    },
+    {
+        "name": "Kurozumi Semimaru",
+        "code": "OP01-099",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/DW5nx3q.png"
+    },
+    {
+        "name": "Kurozumi Higurashi",
+        "code": "OP01-100",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/rZPLUFQ.png"
+    },
+    {
+        "name": "Sasaki",
+        "code": "OP01-101",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/WezIAi1.png"
+    },
+    {
+        "name": "Jack",
+        "code": "OP01-102",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/0S0Hw5N.png"
+    },
+    {
+        "name": "Jack",
+        "code": "OP01-102",
+        "rarity": "R",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/Y4ThAxt.png"
+    },
+    {
+        "name": "Scratchmen Apoo",
+        "code": "OP01-103",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/TRNBuC4.png"
+    },
+    {
+        "name": "Speed",
+        "code": "OP01-104",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/A3ifC0x.png"
+    },
+    {
+        "name": "Bao Huang",
+        "code": "OP01-105",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/iEXkY1k.png"
+    },
+    {
+        "name": "Basil Hawkins",
+        "code": "OP01-106",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/DDNxDNu.png"
+    },
+    {
+        "name": "Babanuki",
+        "code": "OP01-107",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/6eJLuW3.png"
+    },
+    {
+        "name": "Hitokiri Kamazo",
+        "code": "OP01-108",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/PGBR4i1.png"
+    },
+    {
+        "name": "Who's Who",
+        "code": "OP01-109",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/om9HkSU.png"
+    },
+    {
+        "name": "Who's Who",
+        "code": "OP01-109",
+        "rarity": "UC",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/HgJA1rD.png"
+    },
+    {
+        "name": "Fukurokuju",
+        "code": "OP01-110",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/kDfMomg.png"
+    },
+    {
+        "name": "Black Maria",
+        "code": "OP01-111",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/tpnMG3D.png"
+    },
+    {
+        "name": "Page One",
+        "code": "OP01-112",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/UCe2clp.png"
+    },
+    {
+        "name": "Holedem",
+        "code": "OP01-113",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/4wavC1H.png"
+    },
+    {
+        "name": "X. Drake",
+        "code": "OP01-114",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/TWxaWQm.png"
+    },
+    {
+        "name": "Elephant's Marchoo",
+        "code": "OP01-115",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/lPl92aI.png"
+    },
+    {
+        "name": "Artificial Devil Fruit SMILE",
+        "code": "OP01-116",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/OxcY9zX.png"
+    },
+    {
+        "name": "Sheep's Horn",
+        "code": "OP01-117",
+        "rarity": "C",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/ecIrRf0.png"
+    },
+    {
+        "name": "Ulti-Mortar",
+        "code": "OP01-118",
+        "rarity": "UC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/uc8SrgA.png"
+    },
+    {
+        "name": "Thunder Bagua",
+        "code": "OP01-119",
+        "rarity": "R",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/aJcZAQ0.png"
+    },
+    {
+        "name": "Shanks",
+        "code": "OP01-120",
+        "rarity": "SEC",
+        "alt": 1,
+        "manga": 1,
+        "image": "https://i.imgur.com/JE5zVzC.png"
+    },
+    {
+        "name": "Shanks",
+        "code": "OP01-120",
+        "rarity": "SEC",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/REKrU82.png"
+    },
+    {
+        "name": "Shanks",
+        "code": "OP01-120",
+        "rarity": "SEC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/W5Kh90n.png"
+    },
+    {
+        "name": "Yamato",
+        "code": "OP01-121",
+        "rarity": "SEC",
+        "alt": 0,
+        "manga": 0,
+        "image": "https://i.imgur.com/zGIkn3P.png"
+    },
+    {
+        "name": "Yamato",
+        "code": "OP01-121",
+        "rarity": "SEC",
+        "alt": 1,
+        "manga": 0,
+        "image": "https://i.imgur.com/bFkzGeg.png"
+    }
+]

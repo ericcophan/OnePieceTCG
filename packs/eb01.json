@@ -1,0 +1,642 @@
+[
+  {
+    "name": "Kozuki Oden",
+    "code": "EB01-001",
+    "rarity": "L",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/MNXH9FP"
+  },
+  {
+    "name": "Kozuki Oden (Alternate Art)",
+    "code": "EB01-001",
+    "rarity": "L",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/vCOLrPb"
+  },
+  {
+    "name": "Izo",
+    "code": "EB01-002",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/5hlgF5j"
+  },
+  {
+    "name": "Kid & Killer",
+    "code": "EB01-003",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/qm5UCUd"
+  },
+  {
+    "name": "Kid & Killer (Alternate Art)",
+    "code": "EB01-003",
+    "rarity": "R",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/d1alST6"
+  },
+  {
+    "name": "Koza",
+    "code": "EB01-004",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/lhZHxfp"
+  },
+  {
+    "name": "Doma",
+    "code": "EB01-005",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/lrJ1yqN"
+  },
+  {
+    "name": "Tony Tony.Chopper",
+    "code": "EB01-006",
+    "rarity": "SR",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/J1mSm9E"
+  },
+  {
+    "name": "Tony Tony.Chopper (Alternate Art)",
+    "code": "EB01-006",
+    "rarity": "SR",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/DVYzTlY"
+  },
+  {
+    "name": "Tony Tony.Chopper (Manga)",
+    "code": "EB01-006",
+    "rarity": "SR",
+    "alt": 1,
+    "manga": 1,
+    "image": "https://imgur.com/a/QEc5F2a"
+  },
+  {
+    "name": "Yamato",
+    "code": "EB01-007",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/ETd0sgh"
+  },
+  {
+    "name": "LittleOars Jr",
+    "code": "EB01-008",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/rVy4Lxu"
+  },
+  {
+    "name": "Just Shut Up and Come with Us!!!",
+    "code": "EB01-009",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/JY5HYIC"
+  },
+  {
+    "name": "There's No Way You Could Defeat Me!!!",
+    "code": "EB01-010",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/jjY94EN"
+  },
+  {
+    "name": "Mini-Merry",
+    "code": "EB01-011",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/f2NDgHCN"
+  },
+  {
+    "name": "Cavendish",
+    "code": "EB01-012",
+    "rarity": "SR",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/WQ0Vq7g"
+  },
+  {
+    "name": "Cavendish (Alternate Art)",
+    "code": "EB01-012",
+    "rarity": "SR",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/ERSxTZs"
+  },
+  {
+    "name": "Kouzuki Hiyori",
+    "code": "EB01-013",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/Rwi5kB2"
+  },
+  {
+    "name": "Kouzuki Hiyori (Alternate Art)",
+    "code": "EB01-013",
+    "rarity": "R",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/4iJK0HK"
+  },
+  {
+    "name": "Sanji",
+    "code": "EB01-014",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/E3dQLWe"
+  },
+  {
+    "name": "Scratchmen Apoo",
+    "code": "EB01-015",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/cfjre9N"
+  },
+  {
+    "name": "Bingoh",
+    "code": "EB01-016",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/fYd8ZR2"
+  },
+  {
+    "name": "Blueno",
+    "code": "EB01-017",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/SjMq4X8"
+  },
+  {
+    "name": "Mountain God",
+    "code": "EB01-018",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/NfmvjzK"
+  },
+  {
+    "name": "Off-White",
+    "code": "EB01-019",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/F8OK4Tb"
+  },
+  {
+    "name": "Chambres",
+    "code": "EB01-020",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/lzIIPiZ"
+  },
+  {
+    "name": "Hannyabal",
+    "code": "EB01-021",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/HSrEMSf"
+  },
+  {
+    "name": "Hannyabal",
+    "code": "EB01-021",
+    "rarity": "R",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/YYTbtZw"
+  },
+  {
+    "name": "Inazuma",
+    "code": "EB01-022",
+    "rarity": "SR",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/Bvr3dJ9"
+  },
+  {
+    "name": "Inazuma",
+    "code": "EB01-022",
+    "rarity": "SR",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/uK1aoTp"
+  },
+  {
+    "name": "Edward Weevil",
+    "code": "EB01-023",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/E4azkDO"
+  },
+  {
+    "name": "Hamlet",
+    "code": "EB01-024",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/f2KtQO1"
+  },
+  {
+    "name": "Fourtricks",
+    "code": "EB01-025",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/nynl61v"
+  },
+  {
+    "name": "Prince Bellett",
+    "code": "EB01-026",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/VSOIagj"
+  },
+  {
+    "name": "Mr. 1 Daz.Bonez",
+    "code": "EB01-027",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/Fz6SEUE"
+  },
+  {
+    "name": "Mr. 1 Daz.Bonez",
+    "code": "EB01-027",
+    "rarity": "R",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/i8Ch3rb"
+  },
+  {
+    "name": "Gum-Gum Champion Rifle",
+    "code": "EB01-028",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/89WCpKq"
+  },
+  {
+    "name": "Sorry. I'm a Goner.",
+    "code": "EB01-029",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/N08rmNo"
+  },
+  {
+    "name": "Loguetown",
+    "code": "EB01-030",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/nhbZUye"
+  },
+  {
+    "name": "Kalifa",
+    "code": "EB01-031",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/le1IKUA"
+  },
+  {
+    "name": "Kalifa",
+    "code": "EB01-031",
+    "rarity": "R",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/dxxz3hA"
+  },
+  {
+    "name": "Army Wolves",
+    "code": "EB01-032",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/GYVB9DM"
+  },
+  {
+    "name": "Blueno",
+    "code": "EB01-033",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/VivhmGE"
+  },
+  {
+    "name": "Ms. Wednesday",
+    "code": "EB01-034",
+    "rarity": "SR",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/HYIBvIb"
+  },
+  {
+    "name": "Ms. Wednesday",
+    "code": "EB01-034",
+    "rarity": "SR",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/U1aoKCe"
+  },
+  {
+    "name": "Ms. Monday",
+    "code": "EB01-035",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/3kbwxPE"
+  },
+  {
+    "name": "Minochihuahua",
+    "code": "EB01-036",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/8cm65TW"
+  },
+  {
+    "name": "Mr. 9",
+    "code": "EB01-037",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/XOPR9Gy"
+  },
+  {
+    "name": "Oh Come My Way",
+    "code": "EB01-038",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/S8wvXlN"
+  },
+  {
+    "name": "Conquerer of Three Worlds Ragnaraku",
+    "code": "EB01-039",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/pjg1GQo"
+  },
+  {
+    "name": "Kyros",
+    "code": "EB01-040",
+    "rarity": "L",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/OoxQt2l"
+  },
+  {
+    "name": "Kyros",
+    "code": "EB01-040",
+    "rarity": "L",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/PwQAZj8"
+  },
+  {
+    "name": "Crocus",
+    "code": "EB01-041",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/6SwqofC"
+  },
+  {
+    "name": "Scarlet",
+    "code": "EB01-042",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/8CDHlGu"
+  },
+  {
+    "name": "Spandine",
+    "code": "EB01-043",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/3TcwE3e"
+  },
+  {
+    "name": "Funkfreed",
+    "code": "EB01-044",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/K1yewJG"
+  },
+  {
+    "name": "Brook",
+    "code": "EB01-045",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/s6DiBYr"
+  },
+  {
+    "name": "Brook",
+    "code": "EB01-046",
+    "rarity": "SR",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/6IipI1z"
+  },
+  {
+    "name": "Brook",
+    "code": "EB01-046",
+    "rarity": "SR",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/td8gWAn"
+  },
+  {
+    "name": "Laboon",
+    "code": "EB01-047",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/U2mw9fQ"
+  },
+  {
+    "name": "Laboon",
+    "code": "EB01-048",
+    "rarity": "SR",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/FUBJzYX"
+  },
+  {
+    "name": "Laboon",
+    "code": "EB01-048",
+    "rarity": "SR",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/X9AU9pz"
+  },
+  {
+    "name": "T-Bone",
+    "code": "EB01-049",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/ZsFlpA8"
+  },
+  {
+    "name": "T-Bone",
+    "code": "EB01-049",
+    "rarity": "R",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/QFweVYl"
+  },
+  {
+    "name": "...I Want to Live!!",
+    "code": "EB01-050",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/fNTWizF"
+  },
+  {
+    "name": "Finger Pistol",
+    "code": "EB01-051",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/KaERpoc"
+  },
+  {
+    "name": "Viola",
+    "code": "EB01-052",
+    "rarity": "SR",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/IAAahz6"
+  },
+  {
+    "name": "Viola",
+    "code": "EB01-052",
+    "rarity": "SR",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/cRikSlu"
+  },
+  {
+    "name": "Gastino",
+    "code": "EB01-053",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/EqrCSGP"
+  },
+  {
+    "name": "Gan.Fall",
+    "code": "EB01-054",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/qoInRWi"
+  },
+  {
+    "name": "Charlotte Compote",
+    "code": "EB01-055",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/3C6J1Nd"
+  },
+  {
+    "name": "Charlotte Flampe",
+    "code": "EB01-056",
+    "rarity": "R",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/6iSHXys"
+  },
+  {
+    "name": "Charlotte Flampe",
+    "code": "EB01-056",
+    "rarity": "R",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/Ayzd9Hv"
+  },
+  {
+    "name": "Shirahoshi",
+    "code": "EB01-057",
+    "rarity": "SR",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/1skMuG4"
+  },
+  {
+    "name": "Shirahoshi",
+    "code": "EB01-057",
+    "rarity": "SR",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/5XxTHJo"
+  },
+  {
+    "name": "Mont Blanc Cricket",
+    "code": "EB01-058",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/lxo32cJ"
+  },
+  {
+    "name": "Kingdom Come",
+    "code": "EB01-059",
+    "rarity": "r",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/Mr2QvnB"
+  },
+  {
+    "name": "Did Someone Say Kami?",
+    "code": "EB01-060",
+    "rarity": "C",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/9qqiLm5"
+  },
+  {
+    "name": "Mr.2.Bon.Kurei(Bentham)",
+    "code": "EB01-061",
+    "rarity": "SEC",
+    "alt": 0,
+    "manga": 0,
+    "image": "https://imgur.com/a/XQjp9e7"
+  },
+  {
+    "name": "Mr.2.Bon.Kurei(Bentham)",
+    "code": "EB01-061",
+    "rarity": "SEC",
+    "alt": 1,
+    "manga": 0,
+    "image": "https://imgur.com/a/JLFjpd9"
+  }
+]
